@@ -1,8 +1,9 @@
+import { BasicForm } from './components/BasicForm'
+
 export const App = () => {
   return (
     <div>
-      App
-      <a href='https://google.com' />
+      <BasicForm />
     </div>
   )
 }
