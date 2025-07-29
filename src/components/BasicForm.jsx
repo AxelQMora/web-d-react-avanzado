@@ -58,7 +58,7 @@ export const BasicForm = () => {
       <button
         type='submit'
         disabled={!isValid}
-        className={`w-full py-2 rounded transition cursor-pointer 
+        className={`w-full py-2 rounded transition cursor-pointer}
               ${isValid ? 'bg-blue-600 text-white hover:bg-blue-700' : 'bg-gray-300 text-gray-500 cursor-not-allowed'}`}
 
       >Enviar

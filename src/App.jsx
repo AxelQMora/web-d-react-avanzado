@@ -5,6 +5,7 @@ import * as yup from 'yup'
 import axios from 'axios'
 import { useState } from 'react'
 import { useData } from './hooks/useData'
+import { BasicForm } from './components/BasicForm'
 
 const schema = yup.object({
   userInput: yup
@@ -43,6 +44,7 @@ export const App = () => {
 
   return (
     <>
+      <BasicForm />
       <form onSubmit={handleSubmit(handlePregunta)}>
         <input
           type='text'
