@@ -8,10 +8,11 @@ export const useOllama = () => {
         prompt: userPrompt,
         stream: false
       })
+      return res
     } catch (error) {
       console.error('error: ', error)
     }
   }
 
-  return (sendMessage)
+  return { sendMessage }
 }
