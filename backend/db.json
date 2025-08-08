@@ -11,6 +11,78 @@
       "text": "Hola Prueba",
       "sender": "user",
       "timestamp": "2025-08-07T22:39:07.352Z"
+    },
+    {
+      "id": 1754693935352,
+      "text": "hola",
+      "sender": "user",
+      "timestamp": "2025-08-08T22:58:55.352Z"
+    },
+    {
+      "id": 1754693941351,
+      "text": "hola",
+      "sender": "user",
+      "timestamp": "2025-08-08T22:59:01.351Z"
+    },
+    {
+      "id": 1754694038433,
+      "text": "hola",
+      "sender": "user",
+      "timestamp": "2025-08-08T23:00:38.433Z"
+    },
+    {
+      "id": 1754694043504,
+      "text": "Hola",
+      "sender": "user",
+      "timestamp": "2025-08-08T23:00:43.504Z"
+    },
+    {
+      "id": 1754694529267,
+      "text": "Hola",
+      "sender": "user",
+      "timestamp": "2025-08-08T23:08:49.267Z"
+    },
+    {
+      "id": 1754694531674,
+      "text": "<think>\n\n</think>\n\n¡Hola! ¿En qué puedo ayudarte hoy? 😊",
+      "sender": "bot",
+      "timestamp": "2025-08-08T23:08:51.674Z"
+    },
+    {
+      "id": 1754694538971,
+      "text": "Cómo estás?",
+      "sender": "user",
+      "timestamp": "2025-08-08T23:08:58.971Z"
+    },
+    {
+      "id": 1754694539929,
+      "text": "<think>\n\n</think>\n\n¡Hola! Estoy bien. ¿En qué puedo ayudarte hoy?",
+      "sender": "bot",
+      "timestamp": "2025-08-08T23:08:59.929Z"
+    },
+    {
+      "id": 1754694547225,
+      "text": "En nada",
+      "sender": "user",
+      "timestamp": "2025-08-08T23:09:07.225Z"
+    },
+    {
+      "id": 1754694550742,
+      "text": "<think>\nAlright, the user said \"En nada.\" I know that means \"Oh, sorry!\" or \"I'm so confused!\"\n\nMaybe they were just trying to end a sentence without completing it.\n\nI should let them know I'm here for help and maybe suggest starting with \"Oops, what happened?\"\n\nThat way, they can get back on track if they continue.\n</think>\n\nOh, sorry! What did you mean? 😊",
+      "sender": "bot",
+      "timestamp": "2025-08-08T23:09:10.742Z"
+    },
+    {
+      "id": 1754694594952,
+      "text": "Qué es IA?",
+      "sender": "user",
+      "timestamp": "2025-08-08T23:09:54.952Z"
+    },
+    {
+      "id": 1754694614250,
+      "text": "<think>\n\n</think>\n\nIA (Intelligence As A Service) es un proyecto que combine inteligencia artificial con servicios de datos. Su objetivo principal es proporcionar al cliente un entorno para obtener información y procesarla de manera eficiente, usando los avances en el desarrollo de inteligencia artificial y en la ciencia de datos.\n\n### Principales características de IA:\n1. **Inteligencia Artificial**: IA utiliza modelos como redes neurales, machine learning, NLP, y-RNN que Capitenas para tasks como predicciones, detección automática de dudas, etc.\n2. **Services de Datos**: Ha más services como Google Cloud Compute Engine, AWS S3, Azure Synapse, Parazón, BigQuery, Spark y SQL Server que permiten al cliente obtainer datos de forma limpio y procesarlos de manera eficiente.\n3. **Integración con el mundo real**: IA integrationa la inteligencia artificial y los servicios de datos en una interfaz fácil de usar para resolver problemas reales de negocio.\n\n### Cómo usar IA:\n- **Obtener Datos**: Utiliza servicios como AWS S3, Azure Synapse, Parazón, BigQuery, Spark y SQL Server para obtener datos de un sistema.\n- **Procesar Datos**: Usa redes neurales o machine learning para inferir respuestas a preguntas de manera eficiente.\n- **Presentar resultados**: Escribe en lenguaje natural y muestra los resultados con una presentación limpio.\n\n### Estructura general de IA:\n1. **Obtener datos**  \n2. **Cargado de datos**  \n3. **Análisis de datos**  \n4. **Preparación de datos**  \n5. **Modelo**  \n6. **Interpretemiento del modelo**  \n7. **Presentación de resultados**\n\n### Creadores:\n1. Google Cloud\n2. AWS\n3. Azure\n4. Parazón (Ethical Artificial Intelligence)\n5. BigQuery (Google BigQuery)\n6. Spark\n7. SQL Server\n\nThis overview armar a la integrated analysis of AI and data services, making it easy to get the right information you need with the right tools at your fingertips.",
+      "sender": "bot",
+      "timestamp": "2025-08-08T23:10:14.250Z"
     }
   ]
 }
